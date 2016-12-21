@@ -1,0 +1,17 @@
+extends ../layouts/default
+
+block intro
+	.container
+		h1 News
+	
+block content
+	.container: .row
+		.col-sm-8.col-md-9
+			if data.news.length
+				each item in data.news
+					h5= item._.createdAt.format('DD MMMM YYYY')
+					h3 #{item.headline}
+					h5= item.content
+					br
+			else
+				h2 No news
