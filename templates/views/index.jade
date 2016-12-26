@@ -1,8 +1,35 @@
 extends ../layouts/default
 
+block intro
+	.page-intro: .container
+		h1.page-title(class="text-center")
+			span(style=" color: #AB193D") 北京大学澳大利亚悉尼校友会
 block content
-	.container: .jumbotron
-		img(src='/images/pkuaasa.jpg', width='160')
-		h1 Welcome
-		p This is the website of Peking University Alumni Assosication Sydney Australia (PKUAASA).
-		p It's work in progress.
+	.page-content
+		// 简介
+		.section: .container-sm
+		h3(class="text-center") 
+			span(style="color: #AB193D") 北京大学澳大利亚悉尼校友会简介
+		img.center-block(src='/images/pkuaasa.jpg', width='160', align-items='center')
+		p 
+			span(style="color: #AB193D") 北京大学悉尼校友会
+			| 成立于 2001 年,是在澳大利亚新南威尔士州注册的营利性民间社团。英文全称 Peking University Alumni Association of Sydney Australia Incorporated,缩写为 
+			span(style="color: #AB193D") PKUAASA。
+		p 在风光秀丽的澳大利亚,悉尼校友会为远离故乡的北大人提供了联络校友、交流信息、发展友谊、丰富生活的平台。思想自由、兼容并包是北大人的传统, 独立、自由、科学、民主是北大人永远的精神追求。
+		p 十几年来,历届理事会和广大校友共同努力,校友会像一个团结互助、和谐快乐的大家庭。悉尼校友会现有七十多位正式会员,联系着一百四十多位校友,从四十年代的老学长到刚毕业的年轻人,线上交流其乐融融,线下活动丰富多彩。
+		p 澳大利亚地域寬广,气候宜人,经济文化发达。悉尼作为国际大都市和全球最宜居城市,以其优异的自然环境、先进的教学科研条件和移民就业机会,吸引了越来越多的北大校友。悉尼校友会张开双臂欢迎每一位北大人。
+		p(style="font-size: 12pt; color: #AB193D") 成立时间: 2001 年 6 月
+
+		p(style="font-size: 12pt; color: #AB193D") 注册时间: 2002 年 10 月 31 日
+
+		p(style="font-size: 12pt; color: #AB193D") 核准机构: NSW Fair Trading, Australia
+
+		p(style="font-size: 12pt; color: #AB193D") 会长: 彭炎
+
+		p(style="font-size: 12pt; color: #AB193D") 秘书: 李刚
+
+		p(style="font-size: 12pt; color: #AB193D") 联络员: 周亚西
+
+		p(style="font-size: 12pt; color: #AB193D") 校友会邮件: pkuaasa@gmail.com
+
+		p(style="font-size: 12pt; color: #AB193D") 校友会微信公众平台 ID: PKUAASA
