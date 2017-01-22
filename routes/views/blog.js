@@ -63,6 +63,7 @@ exports = module.exports = function (req, res) {
 			maxPages: 10,
 			filters: {
 				state: 'published',
+				notConstitution: 'true',
 			},
 		})
 			.sort('-publishedDate')

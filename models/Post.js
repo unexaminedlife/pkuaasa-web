@@ -22,6 +22,7 @@ Post.add({
 		extended: { type: Types.Html, wysiwyg: true, height: 400 },
 	},
 	categories: { type: Types.Relationship, ref: 'PostCategory', many: true },
+	notConstitution: { type: Types.Select, options: 'true, false, undefined', default: 'true' },
 });
 
 Post.schema.virtual('content.full').get(function () {
