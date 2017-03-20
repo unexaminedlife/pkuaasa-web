@@ -1,0 +1,286 @@
+html, body {
+	margin:0;
+	padding:0;
+	font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif, "Microsoft YaHei", "Hiragino Sans GB", "STHeiti Light", "SimHei";
+	color: #222222;
+	width: 100%;
+	height: 100%;
+}
+
+img {
+	max-width: 100%;
+}
+
+.w1000 {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.top {
+	background: url(../images/top-bg.jpg) no-repeat bottom center;
+	background-size: 100% auto;
+	height: 200px;
+	width: 100%;
+	text-align: center;
+}
+
+.logo {
+	padding-top: 50px;
+}
+
+.clear {
+	clear: both;
+}
+
+.nav {
+	background: #960300;
+	line-height: 58px;
+	height: 58px;
+	text-align: center;
+	color: #ffffff;
+	font-size: 1.2em;
+}
+
+.nav a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.small {
+	font-size: 0.6em;
+	margin-right: 3em;
+}
+
+.content {
+	margin-top: 20px;
+	background: url(../images/bottom-bg.png)  no-repeat bottom center;
+	padding-bottom: 230px;
+}
+
+.intro, .news, .events, .calendar, .event-tt {
+	float: left;
+}
+
+.news, .events {
+	margin-left: 35px;
+	width: 330px;
+}
+
+.intro {
+	background: #f0f0f0;
+	width: 270px;
+}
+
+
+.intro-top {
+	background: #960300;
+	color: #ffffff;
+	padding: 0 20px;
+	font-size: 1.3em;
+}
+
+.intro-tt {
+	background: url(../images/icon-white.png) no-repeat left center;
+	padding-left: 50px;
+	line-height: 45px;
+	height: 45px;
+}
+
+.intro-text {
+	padding: 10px 20px;
+	font-size: 0.95em;
+}
+
+.red-tt {
+	background: url(../images/icon-red.png) no-repeat left center;
+	padding-left: 50px;
+	line-height: 45px;
+	border-bottom: 2px solid #960300;
+	font-size: 1.3em;
+	color: #960300;
+}
+
+.top-news-img {
+	margin: 15px 0;
+}
+
+.top-news-tt {
+	font-size:1.2em;
+	margin-bottom: 10px;
+}
+
+.top-news-text {
+	font-size: 0.8em;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #f5f5f5;
+}
+
+.news-list {
+	list-style: none;
+	font-size: 1.1em;
+	line-height: 1.8em;
+	padding: 0;
+}
+
+.news-list li:before {
+    content: '\f0da';
+    font-family: FontAwesome;
+	left: 0;
+    position: absolute;
+    top: 0;
+	color: #960300;
+}
+
+.news-list li {
+	position:relative;
+	padding-left: 15px;
+}
+
+.event-container {
+	margin: 20px 0 0;
+}
+
+.calendar {
+	width: 54px;
+	height: 53px;
+	background: url(../images/calendar-bg.png) no-repeat;
+	margin-right: 20px;
+	text-align: center;
+}
+
+.month {
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 0.9em;
+	line-height: 25px;
+}
+
+.date {
+	color: #000000;
+	font-weight: bold;
+	font-size: 1.5em;
+	line-height: 23px;
+}
+
+.t40 {
+	margin-top: 40px;
+}
+
+.event-tt {
+	width: 255px;
+}
+
+.gallery-container {
+	margin-top: 30px;
+	background: #f0f0f0;
+	padding: 20px;
+}
+
+.gallery-tt {
+	background: url(../images/icon-red.png) no-repeat left center;
+	padding-left: 50px;
+	line-height: 45px;
+	font-size: 1.3em;
+	color: #960300;
+}
+
+.gallery {
+	text-align: center;
+	padding: 15px 0 20px 0;
+}
+
+.footer {
+	background: #960300;
+	color: #ffffff;
+	text-align: center;
+	padding: 20px 0;
+	font-size: 0.9em;
+}
+
+        /* jssor slider loading skin oval css */
+
+        .jssorl-oval img {
+            animation-name: jssorl-oval;
+            animation-duration: 1.2s;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+        }
+
+        @keyframes jssorl-oval {
+            from {
+                transform: rotate(0deg);
+            }
+
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+
+        /* jssor slider bullet navigator skin 05 css */
+        /*
+        .jssorb05 div           (normal)
+        .jssorb05 div:hover     (normal mouseover)
+        .jssorb05 .av           (active)
+        .jssorb05 .av:hover     (active mouseover)
+        .jssorb05 .dn           (mousedown)
+        */
+        .jssorb05 {
+            position: absolute;
+        }
+        .jssorb05 div, .jssorb05 div:hover, .jssorb05 .av {
+            position: absolute;
+            /* size of bullet elment */
+            width: 16px;
+            height: 16px;
+            background: url('img/b05.png') no-repeat;
+            overflow: hidden;
+            cursor: pointer;
+        }
+        .jssorb05 div { background-position: -7px -7px; }
+        .jssorb05 div:hover, .jssorb05 .av:hover { background-position: -37px -7px; }
+        .jssorb05 .av { background-position: -67px -7px; }
+        .jssorb05 .dn, .jssorb05 .dn:hover { background-position: -97px -7px; }
+
+        /* jssor slider arrow navigator skin 22 css */
+        /*
+        .jssora22l                  (normal)
+        .jssora22r                  (normal)
+        .jssora22l:hover            (normal mouseover)
+        .jssora22r:hover            (normal mouseover)
+        .jssora22l.jssora22ldn      (mousedown)
+        .jssora22r.jssora22rdn      (mousedown)
+        .jssora22l.jssora22lds      (disabled)
+        .jssora22r.jssora22rds      (disabled)
+        */
+        .jssora22l, .jssora22r {
+            display: block;
+            position: absolute;
+            /* size of arrow element */
+            width: 40px;
+            height: 58px;
+            cursor: pointer;
+            background: url('../images/a22.png') center center no-repeat;
+            overflow: hidden;
+        }
+        .jssora22l { background-position: -10px -31px; }
+        .jssora22r { background-position: -70px -31px; }
+        .jssora22l:hover { background-position: -130px -31px; }
+        .jssora22r:hover { background-position: -190px -31px; }
+        .jssora22l.jssora22ldn { background-position: -250px -31px; }
+        .jssora22r.jssora22rdn { background-position: -310px -31px; }
+        .jssora22l.jssora22lds { background-position: -10px -31px; opacity: .3; pointer-events: none; }
+        .jssora22r.jssora22rds { background-position: -70px -31px; opacity: .3; pointer-events: none; }
+		
+ #owl-demo .item{
+        margin: 3px;
+    }
+    #owl-demo .item img{
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+	
+@media only screen and (max-width: 1200px) {
+	
+}

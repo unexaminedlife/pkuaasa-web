@@ -1,59 +1,289 @@
-extends ../layouts/default
-
-block intro
-	.page-intro: .container
-		h1.page-title(class="text-center")
-			span(style="color: #AB193D; padding-left: 5vw; padding-right: 5vw")
-				strong 北京大学澳大利亚悉尼校友会
-				hr
-block content
-	div(style="padding-left: 5vw; padding-right: 5vw")
-		.page-content
-			.section: .container-sm
-			h3(class="text-center") 
-				span(style="color: #AB193D") 北京大学澳大利亚悉尼校友会简介
-			img.center-block(src='/images/pkuaasa.jpg', width='160', align-items='center')
-			hr
-			p 
-				span(style="color: #AB193D") 北京大学悉尼校友会
-				| 成立于 2001 年,是在澳大利亚新南威尔士州注册的非营利性民间社团。英文全称 Peking University Alumni Association of Sydney Australia Incorporated,缩写为 
-				span(style="color: #AB193D") PKUAASA。
-			p 在风光秀丽的澳大利亚,悉尼校友会为远离故乡的北大人提供了联络校友、交流信息、发展友谊、丰富生活的平台。思想自由、兼容并包是北大人的传统, 独立、自由、科学、民主是北大人永远的精神追求。
-			p 十几年来,历届理事会和广大校友共同努力,校友会像一个团结互助、和谐快乐的大家庭。悉尼校友会现有七十多位正式会员,联系着一百四十多位校友,从四十年代的老学长到刚毕业的年轻人,线上交流其乐融融,线下活动丰富多彩。
-			p 澳大利亚地域寬广,气候宜人,经济文化发达。悉尼作为国际大都市和全球最宜居城市,以其优异的自然环境、先进的教学科研条件和移民就业机会,吸引了越来越多的北大校友。悉尼校友会张开双臂欢迎每一位北大人。
-
-	div(style="font-size: 12pt; color: #AB193D")
-		ul(style="list-style-type:none")		
-			li 成立时间: 2001 年 6 月
-			li 注册时间: 2002 年 10 月 31 日
-			li 核准机构: NSW Fair Trading, Australia
-			li 会长: 彭炎
-			li 秘书: 李刚
-			li 联络员: 周亚西
-			li 校友会邮件: pkuaasa@gmail.com
-			li 校友会微信公众平台 ID: PKUAASA
-		hr
-	div(style="color: #AB193D")
-		h3(class="text-center") 北京大学澳大利亚悉尼校友会 会旗
-		p
-		img.center-block(src='/images/pkuaasa-flag.jpg', width='640', align-items='center')
-		hr
-	div(style="color: #ABD193D; padding-left: 5vw; padding-right: 5vw")
-		.section: .container-sm
-		h3(class="text-center") 
-			span(style="color: #AB193D") 北京大学澳大利亚悉尼校友会 会标
-		img.center-block(src='/images/pkuaasa.jpg', width='320', align-items='center')
-		hr
-		p
-		hr
-		h3(class="text-center")
-			span(style="color: #AB193D") 北京大学澳大利亚悉尼校友会
-		h2(class="text-center")
-			span(style="color: #AB193D") 入会申请表 
-		img.center-block(src='/images/pkuaasa-app.jpg', width='640', align-items='center')
-
-		hr
-		h3(class="text-center")
-			span(style="color: #AB193D") 北京大学澳大利亚悉尼校友会章程
-		p(class="text-center")
-			| <a href='/constitution'> 请按链接
+doctype html
+html
+  head
+    meta(name="viewport", content="width=device-width, initial-scale=1")
+    meta(charset="utf-8")
+    title 北京大学澳大利亚悉尼校友会
+    link(href="styles/style.css", rel="stylesheet", type="text/css")
+    link(href="styles/font-awesome.min.css", rel="stylesheet", type="text/css")
+    link(rel="stylesheet", href="styles/owl.carousel.css")
+    link(rel="stylesheet", href="styles/owl.theme.css")
+  body
+    // This code works without jquery library.
+    script(src="js/jssor.slider-22.2.16.min.js", type="text/javascript")
+    |     
+    script(type="text/javascript").
+      jssor_1_slider_init = function() {
+      var jssor_1_options = {
+      $AutoPlay: true,
+      $SlideDuration: 800,
+      $SlideEasing: $Jease$.$OutQuint,
+      $ArrowNavigatorOptions: {
+      $Class: $JssorArrowNavigator$
+      },
+      $BulletNavigatorOptions: {
+      $Class: $JssorBulletNavigator$
+      }
+      };
+      var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
+      /*responsive code begin*/
+      /*remove responsive code if you don't want the slider scales while window resizing*/
+      function ScaleSlider() {
+      var refSize = jssor_1_slider.$Elmt.parentNode.clientWidth;
+      if (refSize) {
+      refSize = Math.min(refSize, 1920);
+      jssor_1_slider.$ScaleWidth(refSize);
+      }
+      else {
+      window.setTimeout(ScaleSlider, 30);
+      }
+      }
+      ScaleSlider();
+      $Jssor$.$AddEvent(window, "load", ScaleSlider);
+      $Jssor$.$AddEvent(window, "resize", ScaleSlider);
+      $Jssor$.$AddEvent(window, "orientationchange", ScaleSlider);
+      /*responsive code end*/
+      };
+    | 	
+    .top
+      .logo
+        img(src="images/logo-2.png", alt="北京大学澳大利亚悉尼校友会 PKUAASA")
+    |     
+    |     
+    .nav
+      a(href="#")
+        | 首 页 
+        span.small Home
+      |     
+      a(href="#")
+        | 关于PKUAASA 
+        span.small About PKUAASA
+      |     
+      a(href="#")
+        | 新 闻 
+        span.small News
+      |     
+      a(href="#")
+        | 活 动 
+        span.small Events
+      |     
+      a(href="#")
+        | 相 册 
+        span.small Gallery
+      |     
+      a(href="#")
+        | 联系我们 
+        span.small Contact Us
+    |     
+    |     
+    .slideshow
+      #jssor_1(style="position:relative;margin:0 auto;top:0px;left:0px;width:1500px;height:600px;overflow:hidden;visibility:hidden;")
+        // Loading Screen
+        .jssorl-oval(data-u="loading", style="position:absolute;top:0px;left:0px;text-align:center;background-color:rgba(0,0,0,0.7);")
+          img(style="margin-top:-19.0px;position:relative;top:50%;width:38px;height:38px;", src="images/oval.svg")
+        |         
+        div(data-u="slides", style="cursor:default;position:relative;top:0px;left:0px;width:1500px;height:600px;overflow:hidden;")
+          div
+            img(data-u="image", src="images/slide.png")
+          |             
+          div
+            img(data-u="image", src="images/slide2.png")
+          |             
+          div
+            img(data-u="image", src="images/slide3.png")
+        // Arrow Navigator
+        span.jssora22l(data-u="arrowleft", style="top:0px;left:8px;width:40px;height:58px;", data-autocenter="2")
+        |         
+        span.jssora22r(data-u="arrowright", style="top:0px;right:8px;width:40px;height:58px;", data-autocenter="2")
+      |     
+      script(type="text/javascript").
+        jssor_1_slider_init();
+      // #endregion Jssor Slider End
+    |     
+    |     
+    .content
+      .w1000
+        .intro
+          .intro-top
+            span.intro-tt
+              | PKUAASA简介
+          |                 
+          .intro-text
+            p
+              | 北京大学悉尼校友会成立于 2001 年,是在澳大利亚新南威尔士州注册的非营利性民间社团。英文全称 Peking University Alumni Association of Sydney Australia Incorporated,缩写为 PKUAASA。
+            |                     
+            p
+              | 在风光秀丽的澳大利亚,悉尼校友会为远离故乡的北大人提供了联络校友、交流信息、发展友谊、丰富生活的平台。思想自由、兼容并包是北大人的传统, 独立、自由、科学、民主是北大人永远的精神追求。
+            |                     
+            p
+              | 十几年来,历届理事会和广大校友共同努力,校友会像一个团结互助、和谐快乐的大家庭。悉尼校友会现有七十多位正式会员,联系着一百四十多位校友,从四十年代的老学长到刚毕业的年轻人,线上交流其乐融融,线下活动丰富多彩。
+            |                     
+            p
+              | 澳大利亚地域寬广,气候宜人,经济文化发达。悉尼作为国际大都市和全球最宜居城市,以其优异的自然环境、先进的教学科研条件和移民就业机会,吸引了越来越多的北大校友。悉尼校友会张开双臂欢迎每一位北大人。
+        |             
+        .news
+          .red-tt
+            | 热点新闻
+          |                 
+          .top-news-img
+            img(src="images/news-1.png")
+          |                 
+          .top-news-tt
+            | 北京大学悉尼校友会圣诞聚会成功举办
+          |                 
+          .top-news-text
+            | 2016年12月17日（周六），北京大学澳大利亚悉尼校友会圣诞暨新年聚会在Eastwood成功举办，50多位校友和家属欢聚一堂，喜迎新年。
+          |                 
+          |                 
+          ul.news-list
+            li
+              | 北京大学悉尼校友会圣诞聚会成功举办
+            |                     
+            li
+              | 北京大学悉尼校友会圣诞聚会成功举办
+            |                     
+            li
+              | 北京大学悉尼校友会圣诞聚会成功举办
+            |                     
+            li
+              | 北京大学悉尼校友会圣诞聚会成功举办
+            |                     
+            li
+              | 北京大学悉尼校友会圣诞聚会成功举办
+            |                     
+            li
+              | 北京大学悉尼校友会圣诞聚会成功举办
+        |             
+        |             
+        .events
+          .red-tt
+            | 精彩活动
+          |                 
+          .event-container
+            .calendar
+              span.month
+                | Mar
+              |                         
+              br
+              |                         
+              span.date
+                | 25
+            |                     
+            .event-tt
+              | 北京大学悉尼校友会接待北京大学访问团招募信息
+            |                     
+            .clear
+          |                 
+          |                 
+          .event-container
+            .calendar
+              span.month
+                | Mar
+              |                         
+              br
+              |                         
+              span.date
+                | 25
+            |                     
+            .event-tt
+              | 北京大学悉尼校友会接待北京大学访问团招募信息
+            |                     
+            .clear
+          |                 
+          |                 
+          .event-container
+            .calendar
+              span.month
+                | Mar
+              |                         
+              br
+              |                         
+              span.date
+                | 25
+            |                     
+            .event-tt
+              | 北京大学悉尼校友会接待北京大学访问团招募信息
+            |                     
+            .clear
+          |                 
+          |                 
+          .event-container
+            .calendar
+              span.month
+                | Mar
+              |                         
+              br
+              |                         
+              span.date
+                | 25
+            |                     
+            .event-tt
+              | 北京大学悉尼校友会接待北京大学访问团招募信息
+            |                     
+            .clear
+          |                 
+          |                 
+          .intro-top.t40
+            span.intro-tt
+              | 联系我们
+          |                 
+          |                 
+          p 校友会邮件: pkuaasa@gmail.com
+          | 				
+          p 校友会微信公众平台 ID: PKUAASA
+          |                 
+          |                 
+          p
+            img(src="images/wechat-icon.png")
+            |         
+            img(src="images/wechat-qr.png")
+        |             
+        .clear
+      |         
+      |         
+      .gallery-container.w1000
+        .gallery-tt
+          | 活动相册
+        |             
+        .gallery
+          #owl-demo.owl-carousel
+            .item
+              img(src="images/event1.png", alt="PKUAASA")
+            |                     
+            .item
+              img(src="images/event2.png", alt="PKUAASA")
+            |                     
+            .item
+              img(src="images/event3.png", alt="PKUAASA")
+            |                     
+            .item
+              img(src="images/event1.png", alt="PKUAASA")
+            |                     
+            .item
+              img(src="images/event2.png", alt="PKUAASA")
+            |                     
+            .item
+              img(src="images/event3.png", alt="PKUAASA")
+        |     
+        script(src="js/jquery-1.9.1.min.js")
+        |  
+        |     
+        script(src="js/owl.carousel.min.js")
+        |     
+        |     
+        script.
+          $(document).ready(function() {
+          $("#owl-demo").owlCarousel({
+          autoPlay: 3000,
+          items : 4,
+          itemsDesktop : [1199,3],
+          itemsDesktopSmall : [979,3]
+          });
+          });
+    |     
+    |     
+    |     
+    .footer
+      | 版权所有 北京大学悉尼校友会 2017
+      br
+      | Copyright PKUAASA 2017
