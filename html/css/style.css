@@ -281,6 +281,53 @@ img {
         height: auto;
     }
 	
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 720px) {
+	
+	.top {
+		background-size: auto 100%;
+		height: 150px;
+	}
+	
+	.logo {
+		padding-top: 50px;
+    	max-width: 90%;
+    	margin: 0 auto;
+	}
+	
+	.w1000 {
+		width: 100%;
+	}
+	
+	.intro, .news, .events {
+		float: none;
+		padding: 0 20px;
+		margin-top: 10px;
+	}
+	
+	.news, .events {
+		margin-left: 0;
+		width: calc(100% - 40px);
+	}
+	
+	.gallery-container {
+		width: calc(100% - 40px) !important;
+	}
+
+	.intro {
+		background: #f0f0f0;
+		width: calc(100% - 40px);
+	}
+	
+	.top-news-img {
+		text-align: center;
+	}
+	
+	.event-tt {
+    	width: calc(100% - 100px);
+	}
+	
+	.content {
+		padding-bottom: 150px;
+	}
 	
 }
