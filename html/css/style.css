@@ -281,7 +281,95 @@ img {
         height: auto;
     }
 	
+	.nav-mobile {
+		display: none;
+	}
+	
 @media only screen and (max-width: 720px) {
+	
+	.nav {
+		display: none;
+	}
+	
+	.nav-mobile {
+		display: inherit;
+		list-style: none;
+	}
+	
+	.nav-mobile {
+		background-color: #960300;
+    	font-size: 1.8em;
+    	padding: 5px 0;
+		color: #ffffff;
+		z-index: 9999 !important;
+		width: 100%;
+		position: relative;
+	}
+	
+	.nav-mobile ul {
+		padding: 0;
+	    margin: 0;
+		list-style: none;
+		position: relative;
+	}
+		
+	.nav-mobile ul li {
+		display:inline-block;
+		background-color: #960300;
+		height: 36px;
+    	line-height: 36px;
+	}
+	
+	.nav-mobile ul li i {
+		margin-left: 30px;
+	}
+	
+	.nav-mobile a {
+		display:block;
+		padding:5px 10px;	
+		color:#ffffff;
+		text-decoration:none;
+	}
+
+	
+	/* Hide Dropdowns by Default */
+	.nav-mobile ul ul {
+		display: none;
+		position: absolute; 
+		top: 40px; /* the height of the main nav */
+		width: 100%;
+		padding: 5px 0;
+		background: #960300;
+	}
+		
+	/* Display Dropdowns on Hover */
+	.nav-mobile ul li:hover > ul {
+		display:inherit;
+	}
+		
+	/* Fisrt Tier Dropdown */
+	.nav-mobile ul ul li {
+		width:100%;
+		float:none;
+		display:list-item;
+		position: relative;
+		font-size: 16px;
+		text-align: center;
+		border-bottom: 1px dashed rgba(255,255,255,0.3);
+	}
+	
+	/* Second, Third and more Tiers	*/
+	.nav-mobile ul ul ul li {
+		position: relative;
+		top:-60px; 
+		left:170px;
+	}
+	
+	.slideshow {
+		z-index: 99 !important;
+		position: relative;
+	}
+	
 	
 	.top {
 		background-size: auto 100%;
