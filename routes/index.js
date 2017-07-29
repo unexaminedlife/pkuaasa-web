@@ -42,6 +42,7 @@ exports = module.exports = function (app) {
 	app.get('/news', routes.views.news);
 	app.get('/325', routes.views.v325);
 	app.get('/constitution', middleware.requireUser, routes.views.constitution);
+	app.get('/pkuaasaconstitution', routes.views.constitution);
 
 	// NOTE: To protect a route so that only admins can see it, use the requireUser middleware:
 	// app.get('/protected', middleware.requireUser, routes.views.protected);
