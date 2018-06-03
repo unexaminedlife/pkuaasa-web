@@ -110,10 +110,10 @@ html
         #page-content
           #img-content.rich_media_area_primary
             h2#activity-name.rich_media_title
-              | 北京大学悉尼校友会成功举办“北大-北大人-北大精神”座谈会庆祝母校成立120周年
+              | 北京大学校长林建华到访悉尼与悉尼校友欢聚
             |                     
             .rich_media_meta_list
-              em#post-date.rich_media_meta.rich_media_meta_text 2018-05-28
+              em#post-date.rich_media_meta.rich_media_meta_text 2017-03-28
               |                                                 
               a#post-user.rich_media_meta.rich_media_meta_link.rich_media_meta_nickname(href="##") PKU澳洲悉尼校友会
               |                         
@@ -151,104 +151,174 @@ html
               p
                 span(style="  ;; ")
               p(style="text-indent: 38px;line-height: 25px")
-                | 5
-                | 月27日下午，北京大学悉尼校友会假借艾琳校友提供的其位于悉尼市中心公司场所举办庆祝母校成立120周年座谈会，以“北大、北大人、北大精神”为主题表达众校
-                | 为主题表达众校友对母校成立120周年的热烈祝贺，和对母校的眷恋之情。总共有23位校友参加座谈会。
+                | 2017
+                | 年3月25日晚，由北京大学悉尼校友会主办的“欢迎北京大学林建华校长联欢会”在悉尼成功举办。北京大学校长林建华、北京大学元培学院副院长张旭东、北京
+                | 大学国际合作部部长夏红卫、项目办公室副主任崔喆等嘉宾与60多位在澳北京大学校友及兄弟院校嘉宾欢聚一堂，回忆求学往事，畅叙校友情怀。中国驻悉尼总领
+                | 馆科技参赞靳志勇应邀出席并致辞。当晚出席的嘉宾还包括：澳大利亚大学联盟主席金艺、清华大学校友会会长高智、复旦大学校友会名誉会长叶明吕、经贸大学校
+                | 友会会长王希海等兄弟院校嘉宾。
               p(style="text-indent: 38px;line-height: 25px")
                 br
+              p
+                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQseZGRkfj5iczouGZUzttrLIX1ZfmemnSp3DXut3IHeLjtQaMhm0sZ6MFqU5HZLhgfgdPBiaOy3l2UQ/0?wx_fmt=jpeg", data-ratio="0.64875", data-w="800", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/640_004.jpg", data-fail="0")
               p(style="text-align: center;")
-                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQseZGRkfj5iczouGZUzttrLIX1ZfmemnSp3DXut3IHeLjtQaMhm0sZ6MFqU5HZLhgfgdPBiaOy3l2UQ/0?wx_fmt=jpeg", data-ratio="0.64875", data-w="800", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/image001.png", data-fail="0")
-              p(style="text-align: center;")
-                span(style="  ;; ") （出席校友会座谈会校友合影）
+                span(style="  ;; ") （校友会关北松、李刚，梁婕和董攀等到机场迎接林建华校长一行）
               p(style="text-align: center;")
                 span(style="  ;; ")
                   br
               p(style="text-align: center;")
                 span(style="  ;; ")
               p
+                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQvDnvkAEDoha6U6xg03mkuGdbhClWpkpW8H5w2G727g5ke5UzRjjseUjZcjwmP3P3vHbtk9kq4Viaw/0?wx_fmt=jpeg", data-ratio="0.7046875", data-w="1280", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/640_014.jpg", data-fail="0")
+              p(style="text-align:center") （北京大学校长林建华致辞）
+              p(style="text-align: center;")
+                span(style="  ;; ")
+                  br
+              p
                 span(style="  ;; ")
               p(style="text-indent:47px")
-                | 座
-                | 谈会上周波校友介绍了他代表校友会出席母校庆祝大会的观感，与众校友分享了参加母校庆祝大会的亲身感受，同时分享了他对北大精神的理解。
-              p(style="text-indent: 38px;line-height: 25px")
+                | 北
+                | 京大学校长林建华在致辞中表示，十分高兴能在大洋彼岸与众多校友齐聚一堂，同温校园往事。林校长向校友们介绍了近年来北大改革与发展所取得的多项成绩，欢
+                | 迎海外校友通过各种方式助力母校建设与发展。他指出，北大在过去二十年时间里，学术研究环境大幅改善，科研经费增加了十倍以上，学术研究能力迅速提高，专
+                | 业论文发表数量显著增长，多位学者获得美国、欧洲等发达国家院士称号与重要国际奖项，北大的综合实力及世界排名不断提升。同时，他也很开心能看到北大的校
+                | 友们在世界各地都取得了相当的成就，他希望校友们在国外生活的同时，能常回到母校校园看看，感受校园如今的变化。
+              p
+                span(style="  ;; ")
                 br
-              p(style="text-align: center;")
-                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQvDnvkAEDoha6U6xg03mkuGZroG8ictNse4TiaSU6UNnWmaia5fQysaP4rdxeWjEoJMnlibCZM5clic6icQ/0?wx_fmt=jpeg", data-ratio="0.6653333333333333", data-w="750", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/image002.png", data-fail="0")
+              p
+                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQvDnvkAEDoha6U6xg03mkuGZroG8ictNse4TiaSU6UNnWmaia5fQysaP4rdxeWjEoJMnlibCZM5clic6icQ/0?wx_fmt=jpeg", data-ratio="0.6653333333333333", data-w="750", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/640_015.jpg", data-fail="0")
               p(style="text-align: center;")
                 | （
-                span(style="line-height: 25px; text-indent: 38px;") 周波校友在发言
+                span(style="line-height: 25px; text-indent: 38px;") 中国驻悉尼总领馆科技参赞靳志勇致辞
                 | ）
+              p
+                br
+              p
+                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQvDnvkAEDoha6U6xg03mkuGttxIvXqRJ1sJRWTicusAjLSx0A2p9wzxAcdmqCSvvPiaSII5cw9Zz0sQ/0?wx_fmt=jpeg", data-ratio="0.66640625", data-w="1280", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/640_006.jpg", data-fail="0")
+              p(style="text-align: center;")
+                span(style="text-align: center;") （北大悉尼校友会会长彭炎向母校赠送纪念品）
               p(style="text-align: center;")
                 br
-              p(style="text-indent: 38px;line-height: 25px")
-                | 李
-                | 李菲菲校友介绍了校庆期间回母校参加毕业30周年纪念活动，与大家分享了对母校的眷恋之情。
-              p(style="text-indent: 38px;line-height: 25px")
-                br
-              p(style="text-align: center;")
-                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQseZGRkfj5iczouGZUzttrLIPia9SCIJrGOsaicWNwLZKzAumQ6qOdib2ffe0VeGtMQQMWnROmgHqR2Rw/0?wx_fmt=jpeg", data-ratio="0.6671875", data-w="1280", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/image003.png", data-fail="0")
-              p(style="text-align: center;") （李菲菲校友在发言）
+              p
+                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQseZGRkfj5iczouGZUzttrLIbdHWTqIgZHT7iapdDjhSSPdR3TB9Jhc0MCxD6HzsviaLC71W1o6Y9nQg/0?wx_fmt=jpeg", data-ratio="0.6265625", data-w="1280", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/640_007.jpg", data-fail="0")
+              p(style="text-align: center;") （会长彭炎致欢迎词）
               p(style="text-align: center;")
                 br
-              p(style="text-indent: 38px;line-height: 25px")
-                | 校
-                | 友会副会长关北松校友则介绍了他们同学杨军录，在身患癌症晚期期间仍坚持创作《地质郎》作为为母校120周年校庆的献礼，以及他们同学在纪念校庆
-                | 原创歌曲演唱会上争取演唱这首歌曲的经历，收到校友们的热烈反应。
-              p(style="text-indent: 38px;line-height: 25px")
-                br                
-              p(style="text-align: center;")
-                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQvDnvkAEDoha6U6xg03mkuGE6iaOluMDAgGOPIPcCN5CSwY1QNh5sLTNltdfnGotUAFbtcq29tRADw/0?wx_fmt=jpeg", data-ratio="0.5609375", data-w="1280", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/image004.png", data-fail="0")
-              p(style="text-align: center;")
-                span(style="text-align: center;") (关北松校友在发言)
+              p(style="text-indent:38px")
+                | 北
+                | 京大学悉尼校友会会长彭炎代表校友致辞，向林建华校长一行及出席联欢会的嘉宾表示热烈欢迎，并对协助组织本次活动的校友和嘉宾们表示了感谢。彭炎会长回顾
+                | 了校友会16年来的发展历程，图文并茂的向大家展示了校友会成立以来丰富多彩的各类活动图片，以及本届校友会开展得卓有成效的各类兴趣小组活动。为适应信
+                | 息时代交流方式变革的需要，本届校友会理事团体还发动校友力量，重新设计了崭新的官网、微信公众号、微信群等社交平台。在致辞最后，彭炎会长还特别邀请林
+                | 建华校长为校友会主持了新网站开通仪式，并向母校赠送了印制着悉尼校友合影的特殊纪念品。
+              p(style="text-indent:38px")
+                br
+              p
+                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQseZGRkfj5iczouGZUzttrLIPia9SCIJrGOsaicWNwLZKzAumQ6qOdib2ffe0VeGtMQQMWnROmgHqR2Rw/0?wx_fmt=jpeg", data-ratio="0.6671875", data-w="1280", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/640_011.jpg", data-fail="0")
+              p(style="text-align: center;") （左起林建华校长、李刚、彭炎）
               p(style="text-align: center;")
                 br
-              p(style="text-indent: 38px;line-height: 25px")
-                | 此
-                | 此外，李刚，陈炜杰，乌钢，王磊等校友也纷纷发言，畅谈对母校120周年校庆的祝贺以及对母校的祝福。
-              p(style="text-indent: 38px;line-height: 25px")
-                br    
+              p
+                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQvDnvkAEDoha6U6xg03mkuGoIRymRlpfoLCTibXrGy5f5CJiaNGWU3gicq0TRQR1rUicbwvHByKCpVV5w/0?wx_fmt=jpeg", data-ratio="0.6998269896193772", data-w="1156", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/640_017.jpg", data-fail="0")
               p(style="text-align: center;")
-                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQseZGRkfj5iczouGZUzttrLIc4rAsdtmQczOrSorU1sNIQBZ96abExYL4EQQ2ovyiaC8c9GeicnlLY0Q/0?wx_fmt=jpeg", data-ratio="0.6671875", data-w="1280", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/image005.png", data-fail="0")
+                span(style="text-align: center;") (左起李安权，彭炎、于诚源 )
               p(style="text-align: center;")
-                span(style="text-align: center;") (陈炜杰校友在发言)
+                span(style="text-align: center;")
+                  br
+              p
+                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQvDnvkAEDoha6U6xg03mkuGE6iaOluMDAgGOPIPcCN5CSwY1QNh5sLTNltdfnGotUAFbtcq29tRADw/0?wx_fmt=jpeg", data-ratio="0.5609375", data-w="1280", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/640_018.jpg", data-fail="0")
+              p(style="text-align: center;")
+                span(style="text-align: center;") (前排左起：周亚西，关北松，林建华校长 )
+              p(style="text-align: center;")
+                span(style="text-align: center;")
+                  br
+              p
+                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQvDnvkAEDoha6U6xg03mkuGk01vK4XErCcJWbB8QcZAhLDAib0bPz1jlbD7cGPz7vyicyWGUj3z6IQA/0?wx_fmt=jpeg", data-ratio="0.7", data-w="640", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/640_012.jpg", data-fail="0")
+              p(style="text-align: center;") （左起彭炎，高智，林建华校长，李菲菲，钱红）
               p(style="text-align: center;")
                 br
-              p(style="text-indent: 38px;line-height: 25px")
-                | 座
-                | 谈会开始之前张速校友带领大家进行了太极热身活动，让大家从身心上得以放松。周亚西校友带领中校友唱响“四季未名湖”这首由北大校友自己创作的歌曲， 
-                | 在“四季未名湖,有我的梦想”中分享北大情怀。吴梅芳，王睿，王磊三位校友精心着装，认真准备了“同一首歌”这个精彩节目，在“甜蜜的梦啊谁都不会错过，
-                | 终于迎来今天这欢聚时刻”的歌声中让众多校友感受校友之间的深厚情谊。而校友会会长彭炎校友的一曲“送别”将演出推向高潮。
-              p(style="text-indent: 38px;line-height: 25px")
+              p
+                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQseZGRkfj5iczouGZUzttrLI3Hr1HgK4rozicAbM0If7UjH97UbfNia4zbejOIBmjiaJasHyRYEYRGTHA/0?wx_fmt=jpeg", data-ratio="0.6671875", data-w="1280", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/640_008.jpg", data-fail="0")
+              p(style="text-align: center;")
+                | （左起：关北松，夏红卫，张旭东，林建华校长，彭炎，崔
+                span(style="line-height: 25px; text-indent: 38px;") 喆
+                | ）
+              p
                 br
+              p
+                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQseZGRkfj5iczouGZUzttrLIc4rAsdtmQczOrSorU1sNIQBZ96abExYL4EQQ2ovyiaC8c9GeicnlLY0Q/0?wx_fmt=jpeg", data-ratio="0.6671875", data-w="1280", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/640_021.jpg", data-fail="0")
               p(style="text-align: center;")
-                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQseZGRkfj5iczouGZUzttrLIicibvLKHianT8duITVLbbbh99vsichqJxXupjiaGWJLOSfiayn5N2Do0Dtjg/0?wx_fmt=jpeg", data-ratio="0.7140625", data-w="1280", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/image006.png", data-fail="0")
+                | （交换礼品。左起：夏红卫，张旭东，林建华校长，彭炎，崔
+                span(style="line-height: 25px; text-indent: 38px;") 喆）
+              p
+                br
+              p
+                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQseZGRkfj5iczouGZUzttrLIicibvLKHianT8duITVLbbbh99vsichqJxXupjiaGWJLOSfiayn5N2Do0Dtjg/0?wx_fmt=jpeg", data-ratio="0.7140625", data-w="1280", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/640_020.jpg", data-fail="0")
               p(style="text-align: center;")
-                span(style="text-align: center;") (周亚希校友领唱“四季未名湖”)
+                span(style="text-align: center;") (会长彭炎致辞，右为关北松副会长 )
+              p(style="text-align: center;")
+                span(style="text-align: center;")
+                  br
+              p
+                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQseZGRkfj5iczouGZUzttrLIQWbd4t20EPGEDHjovKWChenuNsybRMzRlULWBy6eibSrzflJ7VVttdA/0?wx_fmt=jpeg", data-ratio="0.6671875", data-w="1280", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/640_003.jpg", data-fail="0")
+              p(style="text-align: center;") （左起：王希海，李菲菲、林建华校长）
+              p(style="text-align: center;")
+                br
+              p
+                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQvDnvkAEDoha6U6xg03mkuGjrMzenSSYUaZkeoGqGzNbtibz162JONmTbyHJ24OCUnuclhoD4MqvnA/0?wx_fmt=jpeg", data-ratio="0.725", data-w="640", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/640_016.jpg", data-fail="0")
+              p(style="text-align: center;")
+                span(style="text-align: center;")
+                  | （左起：乌钢，关北松，武未宏，林建华校长，彭炎，李菲菲）
+                  br
               p(style="text-align: center;")
                 span(style="text-align: center;")
                   br
               p(style="text-align: center;")
-                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQseZGRkfj5iczouGZUzttrLIQWbd4t20EPGEDHjovKWChenuNsybRMzRlULWBy6eibSrzflJ7VVttdA/0?wx_fmt=jpeg", data-ratio="0.6671875", data-w="1280", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/image007.png", data-fail="0")
-              p(style="text-align: center;") （吴梅芳，王睿，王磊三位校友演唱“同一首歌”）
-              p(style="text-align: center;")
-                br
-              p(style="text-align: center;")
-                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQvDnvkAEDoha6U6xg03mkuGjrMzenSSYUaZkeoGqGzNbtibz162JONmTbyHJ24OCUnuclhoD4MqvnA/0?wx_fmt=jpeg", data-ratio="0.725", data-w="640", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/image008.png", data-fail="0")
-              p(style="text-align: center;") (会长彭炎校友演唱“送别”）
-              p(style="text-align: center;")
-                br   
+                span(style="text-align: center;")
               p
-                span(style="  ;; ")
-              p(style="text-indent: 38px;line-height: 25px")
-                | 为了成功举办此次座谈会，还有许多校友都付出了很多努力和辛苦。梁婕校友提前为座谈会制作了PPT并由吴炜校友现场播放。
-                | 武未宏和李刚校友辛苦采购并提前到达现场进行布置安排。孟莉校友赞助了红酒。乌钢校友则再次担任座谈会摄影师，为大家提供了精美的图片记录。
-                | 原计划下午4点结束的座谈会一直到4：30大家仍恋恋不舍，有说不完的话，道不完的情。
+                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQvDnvkAEDoha6U6xg03mkuGzdMVamiavjVVrstn2c7FncquTyahqU6sdwhF8lyroianAlItI5dJibictQ/0?wx_fmt=jpeg", data-ratio="0.75625", data-w="640", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/640_005.jpg", data-fail="0")
+              p(style="text-align: center;") （前排左起：关北松，林建华校长，曾立诚，后排左起：张速，钱红，朱志诚）
+              p(style="text-align: center;")
                 br
+              p
+                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQvDnvkAEDoha6U6xg03mkuGAX7jqGlDDP836JMonp07UmrroeNxDUt9YgZH3XfE1StZ6NZeMs30fw/0?wx_fmt=jpeg", data-ratio="0.61875", data-w="640", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/640_013.jpg", data-fail="0")
+              p(style="text-align: center;") （左起：张靖楠，李安权，彭炎，周亚西，钱红，黄毅坚）
+              p(style="text-align: center;")
                 br
-                | 就像会长彭炎校友所说，“悉尼北大人今天都以自己的方式体现着北大人的北大精神”
+              p
+                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQvDnvkAEDoha6U6xg03mkuGQgghxdLQiah4lXxp7XhJWAPZ6bIUrTia7x31kuoJIy1ibEjghiagZQRtWQ/0?wx_fmt=jpeg", data-ratio="0.74375", data-w="640", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/640_010.jpg", data-fail="0")
+              p(style="text-align: center;")
+                | （前排左起：关北松，张靖楠，林建华校长，钱红，后排左起：周亚西，朱志诚，吴梅芳）
+                span(style="text-align: center;")
                 br
+              p(style="text-align: center;")
                 br
-                | 校友会理事会深深感谢各位校友的大力支持，让我们在纪念母校校庆的同时再一次弘扬北大精神。              
+              p(style="text-align: center;")
+                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQvDnvkAEDoha6U6xg03mkuG2pIMD2JT1JQAyHja2P17M6zczZxYibKrvozS4v94npxQeveXIgMOE7A/0?wx_fmt=jpeg", data-ratio="0.565625", data-w="640", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/640.jpg", data-fail="0")
+              p(style="text-align: center;") （温馨愉快的晚会现场）
+              p(style="text-align: center;")
+                br
+              p
+                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQseZGRkfj5iczouGZUzttrLIOch66DN4AFAwnAmFEwjvd5QzaBt3zT844JgTnb50YVG3IRCZMLNqicA/0?wx_fmt=jpeg", data-ratio="0.4975", data-w="800", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/640_002.jpg", data-fail="0")
+              p(style="text-align: center;") （林建华校长一行同校友会工作组合影 )
+              p
+                br
+              p
+                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQseZGRkfj5iczouGZUzttrLIjwYLtEMJdYRW216KYiaz9E3pXjp0KicaqFSzHUyEY2JCCnB26weNEcFw/0?wx_fmt=jpeg", data-ratio="0.43203125", data-w="1280", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/640_022.jpg", data-fail="0")
+              p(style="text-align:center") 出席欢迎会的校友和嘉宾合影
+              p(style="text-align:center")
+                br
+              p
+                img(data-s="300,640", data-type="jpeg", data-src="http://mmbiz.qpic.cn/mmbiz_jpg/EmL66XGIgQvDnvkAEDoha6U6xg03mkuGKD8D6tYAqf7ryqOUA9f1KicE87Pk5he4qOMflRT537lVIbYW4WTDzaA/0?wx_fmt=jpeg", data-ratio="0.75", data-w="1280", style="width: auto ! important; height: auto ! important; visibility: visible ! important;", src="images/640_009.jpg", data-fail="0")
+              p(style="text-align: center;") （为校长送行. 左起：l梁婕，彭炎、林建华、关北松和李菲菲）
+              p(style="font-family: 'Times New Roman'; line-height: normal; white-space: normal;")         
+              p(style="font-family: 'Times New Roman'; line-height: normal; white-space: normal;")
+                | 当天活动现场气氛十分热烈，多位校友在会上自由发言，回忆自己的北大求学往事，向林建华校长请教母校的最新变化与发展，提出自己对母校教育与
+                | 改革的思考与建议。林校长与众多校友展开了热烈的问答与讨论，赢得校友阵阵掌声。校友们还在联欢会上合唱了由老校友李安权先生作词作曲的校友会会歌，把整
+                | 个活动气氛推向高潮。
+              p(style="font-family: 'Times New Roman'; line-height: normal; white-space: normal;")
+                br
+              p(style="font-family: 'Times New Roman'; line-height: normal; white-space: normal;")
+                | 北京大学悉尼校友会成立于2001年，在历届校友会理事会与监事会的共同努力下，十几年间日益壮大，为近150名校友搭建了一个在悉尼共同活动与交流的平
+                | 台。北大悉尼校友会现已成为悉尼北大人的娱乐家园与精神家园，吸引着越来越多的北大校友加入（文字：彭俊军，照片：乌钢，叶群英）
             |                     
             script(nonce="696967426", type="text/javascript").
               var first_sceen__time = (+new Date());
@@ -425,7 +495,7 @@ html
       var nickname = "PKU澳洲悉尼校友会";
       var appmsg_type = "9";
       var ct = "1490648305";
-      var publish_time = "2018-05-28" || "";
+      var publish_time = "2017-03-28" || "";
       var user_name = "gh_a72088c6cd22";
       var user_name_new = "";
       var fakeid   = "";
@@ -535,9 +605,9 @@ html
     |  
     |     
     .footer
-      | 版权所有 北京大学悉尼校友会 2018
+      | 版权所有 北京大学悉尼校友会 2017
       br
-      | Copyright PKUAASA 2018
+      | Copyright PKUAASA 2017
 // tailTrap<body></body><head></head><html></html>
 | kk
 
