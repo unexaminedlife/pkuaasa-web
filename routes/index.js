@@ -41,6 +41,7 @@ exports = module.exports = function (app) {
 	app.all('/contact', routes.views.contact);
 	app.get('/news', routes.views.news);
 	app.get('/325', routes.views.v325);
+	app.get('/ljhvisit', routes.views.ljhvisit);
 	app.get('/constitution', middleware.requireUser, routes.views.constitution);
 	app.get('/pkuaasaconstitution', routes.views.constitution);
 
